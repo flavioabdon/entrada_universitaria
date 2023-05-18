@@ -1,5 +1,10 @@
-# entrada_universitaria
-<code>
+# Base de datos entrada universitaria
+## Proyecto Materia INF-161
+
+![N|Solid](https://3.imimg.com/data3/HY/OC/MY-10486665/oracle-database-10g-administration-ii-250x250.jpeg)
+
+Importar archivo Oracle
+```sh
 C:\>imp
 
 Import: Release 10.2.0.1.0 - Production on Jue May 18 10:29:29 2023
@@ -96,4 +101,5 @@ Introduzca un nombre de tabla(T) o de partici¾n(T:P) o . si ha terminado:
 La importaci¾n ha terminado correctamente y sin advertencias.
 
 C:\>
-</ode>
+```
+
